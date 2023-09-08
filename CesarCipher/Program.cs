@@ -1,4 +1,4 @@
 ﻿using CesarCipher;
 
 
-MenuManager.Show();
+Core.Run();
